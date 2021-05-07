@@ -10,13 +10,13 @@ Don't ask why this repo's main branch is callled ``"dominant"``
 
 [![statistiks](https://github-readme-stats.vercel.app/api?username=GlitchyPSIX&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/projectcomet64/M64MM">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectcomet64&repo=M64MM&theme=synthwave" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/projectcomet64/metal-composer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectcomet64&repo=metal-composer&theme=synthwave" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/projectcomet64/SPARK">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=projectcomet64&repo=SPARK&theme=synthwave" />
 </a>
 <!--
