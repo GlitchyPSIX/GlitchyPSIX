@@ -2,7 +2,9 @@
 
 Name's Glitchy. As oppossed to common belief no I'm not a robot and this isn't my source code but hi
 
-I develop stuff for SM64 machinima and other things of mine like games and stuff, I also make graphics
+I'm a software engineer that develops stuff for SM64 machinima and other things of mine like games and stuff
+
+I also make graphics because graphics are super cool
 
 My main language is C#, second is JS. I am one of the heads in the [Project Comet](https://github.com/projectcomet64) organization which has all the SM64 stuff I work on.
 
